@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.54e760c2.css",
+    "main.js": "/Portfolio/static/js/main.b6dba680.js",
+    "static/media/about.png": "/Portfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/Portfolio/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/Portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/ecommerce-websites.png": "/Portfolio/static/media/ecommerce-websites.3da3fde843497af209e2.png",
+    "static/media/prasanna-resume.pdf": "/Portfolio/static/media/prasanna-resume.c2bc086f5faf8e1b30cd.pdf",
+    "static/media/todo-list-application.png": "/Portfolio/static/media/todo-list-application.5da9c999a716e6335ecb.png",
+    "static/media/quiz-application.png": "/Portfolio/static/media/quiz-application.5ca1c9e40f81d9ea43ff.png",
+    "index.html": "/Portfolio/index.html",
+    "main.54e760c2.css.map": "/Portfolio/static/css/main.54e760c2.css.map",
+    "main.b6dba680.js.map": "/Portfolio/static/js/main.b6dba680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54e760c2.css",
+    "static/js/main.b6dba680.js"
+  ]
+}
