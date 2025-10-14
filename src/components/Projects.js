@@ -11,17 +11,17 @@ export default function Projects() {
             {
                 image: websiteImg1,
                 description: 'E-Commerce (QuickCart): Full-stack e-commerce platform using Next.js/MongoDB with Clerk authentication and persistent cart management.',
-                link: ''
+                link: 'https://quick-cart-six-peach.vercel.app/'
             },
             {
                 image: websiteImg2,
                 description: 'Quiz Application: Vanilla JavaScript quiz app featuring dynamic category configuration and core DOM logic.',
-                link: ''
+                link: 'https://prasanna2944.github.io/quiz-app/'
             },
             {
                 image: websiteImg3,
                 description: 'To-Do List Application: JavaScript To-Do app with task CRUD operations, Local Storage persistence, and real-time progress tracking.',
-                link: ''
+                link: 'https://prasanna2944.github.io/todo-list/'
             },
         ]
     }
